@@ -44,7 +44,5 @@ Una vez efectuadas todas las transformaciones y normalizaciones en Power Query, 
 A su vez creamos la tabla calendario [calendar] para poder ser utilizada en funciones de inteligencia de tiempo y mayor nivel de agregación de datos.
 El modelo quedó de la siguiente forma:
 
-[Modelo](https://github.com/agusvaldes/call-center-anonymous-bank/blob/main/github_files/5.png?raw=true)
-
 ![Logo](https://github.com/agusvaldes/call-center-anonymous-bank/blob/main/github_files/5.png?raw=true)
 
