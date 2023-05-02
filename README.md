@@ -13,6 +13,7 @@ Para el presente trabajo se utilizó un dataset que fue proporcionado por Henry 
 El mismo consta de 444.448 filas y 18 columnas. Para información acerca del contenido del dataset, atributos e información relevante se utilizó el documento denominado
 "Ejercicio Call Center - Descripción del DataSet.docx"
 [DataSet Comprimido](https://github.com/agusvaldes/call-center-anonymous-bank/blob/main/dataset.zip)
+
 [Diccionario de datos](https://github.com/agusvaldes/call-center-anonymous-bank/blob/main/Descripci%C3%B3n%20del%20DataSet.docx)
 ## Objetivo
 
